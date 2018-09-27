@@ -163,8 +163,9 @@
 }
 
 .banhead{
-  font-size:33px;
+  font-size:27px;
   margin-top:20px;
+  margin-left:25px;
   
 }
 
@@ -185,12 +186,14 @@ form{
 }
 
 .dev{
-  width: 183px;
-  height: 235px;
+  width: 165px;
+  height: 203px;
 }
 
 .appl{
-  font-size:32px;
+  font-size:33px;
+  font-weight: normal;
+  margin-top:80px;
 }
 
 .hire{
@@ -220,5 +223,20 @@ form{
 .main-text{
   margin-left: 1px;
 }
+
+.cards{
+  display:none;
+}
+.event{
+  margin-top:52px;
+}
+
+.__card {
+  margin-left: 20px;
+}
+
+
+
+
 }
 
