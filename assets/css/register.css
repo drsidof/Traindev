@@ -1,0 +1,62 @@
+
+
+.form-control{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 35px;
+    width: 100%;
+}
+
+.btnsign2 {
+    background: #fff;
+    width: 300px;
+    height: 37px;
+    line-height: 37px;
+    border:0;
+    padding: 0 18px;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    color: rgba(0,0,0,.84);
+    margin-bottom: 15px;
+
+}
+
+.fa-facebook {
+    color: rgb(28, 79, 102);
+}
+.text-dark{
+    color:black;
+}
+
+.regist{
+    font-family: poppins;
+    text-align:center;
+}
+
+.footer-content{
+    margin-top:50px;
+}
+
+.openacct{
+    margin-top:20px;
+}
+
+
+.form-cont{
+    margin-top:40px;
+    
+}
+
+.btn-reg{
+    background-color: #ff3d1eb5;
+    width: 111px;
+    height: 43px;
+    color: white;
+    border-radius: 35px;
+    font-size: 15px;
+}
+
+
+
